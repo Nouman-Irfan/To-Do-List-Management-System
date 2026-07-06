@@ -1,8 +1,8 @@
-# codealpha_task-1
+# To-Do-List-Management-System
 📋 **A C++ To-Do List Management System 🚀 featuring task categorization 🗂️, task completion tracking ✅, pending/completed task filtering 📌, task deletion 🗑️, and persistent data storage 💾 using file handling. Built with Object-Oriented Programming (OOP) 🏗️, vectors 📚, and modular functions ⚡ for efficient task management.**
 <div align="center">
 
-# 📋 CodeAlpha Task 1 — To-Do List Management System
+# 📋 To-Do List Management System
 
 ### 💻 A C++ Console-Based Task Management Application with File Handling & OOP
 
@@ -52,7 +52,7 @@ The application allows users to create, organize, track, and manage daily tasks 
 ## 📂 Project Structure
 
 ```text
-codealpha_task-1/
+To-Do-List-Management-System/
 │
 ├── main.cpp
 ├── tasks.txt
@@ -68,13 +68,13 @@ codealpha_task-1/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Nouman-Irfan/codealpha_task-1.git
+git clone https://github.com/Nouman-Irfan/To-Do-List-Management-System.git
 ```
 
 ### 2️⃣ Open the Project Folder
 
 ```bash
-cd codealpha_task-1
+cd To-Do-List-Management-System
 ```
 
 ### 3️⃣ Compile the Program
@@ -141,13 +141,6 @@ Status: Pending
 * Menu-Driven Programming
 * Basic CRUD Operations
 
----
-
-## 🎯 Internship Task
-
-This project was developed as part of the **CodeAlpha C++ Programming Internship**.
-
-The objective was to create a practical task management system that demonstrates the use of OOP concepts, file handling, vectors, and modular programming techniques in C++.
 
 ---
 
@@ -168,7 +161,7 @@ Passionate about building software solutions, solving real-world problems, and c
 ## 🌐 Repository Link
 
 ```text
-https://github.com/Nouman-Irfan/codealpha_task-1
+https://github.com/Nouman-Irfan/To-Do-List-Management-System
 ```
 
 ---
