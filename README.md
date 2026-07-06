@@ -14,7 +14,7 @@
 
 ## 📌 Project Overview
 
-**To-Do List Management System** is a C++ console application developed as **Task 1** for the **CodeAlpha Internship Program**.
+**To-Do List Management System** is a C++ console application.
 
 The application allows users to create, organize, track, and manage daily tasks efficiently. Tasks are stored permanently using file handling, ensuring that data remains available even after closing the program.
 
