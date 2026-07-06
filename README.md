@@ -122,7 +122,7 @@ Example:
 
 ```text
 Task ID: 1
-Title: Complete Internship Task
+Title: Complete Task
 Category: Programming
 Status: Pending
 ```
